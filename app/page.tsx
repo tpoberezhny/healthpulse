@@ -8,7 +8,7 @@ export default function Home() {
       {/* Need to add Passkey modal */}
       <section className="remove-scrollbar container my-auto">
         <div className="sub-container max-w-[496px]">
-          <div className="flex items-center">
+          <div className="logo">
           <Image
             src="/assets/icons/logo-icon.svg"
             height={40}
